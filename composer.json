@@ -1,6 +1,6 @@
 {
-    "name": "friendsofcake/crud",
-    "description": "CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code - XML / JSON APIs and more",
+    "name": "rootnet/crud-mirror",
+    "description": "Temp mirror of FriendsOfCake/Crud: CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code - XML / JSON APIs and more",
     "type": "cakephp-plugin",
     "keywords": [
         "cakephp",
@@ -14,7 +14,7 @@
         "scaffold",
         "scaffolding"
     ],
-    "homepage": "https://github.com/FriendsOfCake/crud",
+    "homepage": "https://github.com/rootnet/crud-mirror",
     "license": "MIT",
     "authors": [
         {
